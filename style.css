@@ -1,0 +1,9 @@
+body {
+  width: 300px;
+  padding: 10px;
+}
+
+.result-item {
+  border-bottom: 1px solid #eee;
+  padding: 5px 0;
+}
