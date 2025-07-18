@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const resultsDiv = document.getElementById('results-div');
   
   // URL of your backend server
-  const backendUrl = 'http://localhost:3000/search';
+  const backendUrl = 'https://stargate-backend.onrender.com';
 
   searchButton.addEventListener('click', function() {
     console.log("Search button was clicked!"); // <-- BREADCRUMB #1
